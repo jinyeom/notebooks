@@ -1,8 +1,8 @@
 {
-    "name": "Metis",
-    "author": "Jin Yeom",
+    "user_name": "jinyeom",
+    "repo_name": "notebooks",
+    "author_name": "Jin Yeom",
     "author_email": "jin.yeom@hudl.com",
-    "author_github_id": "jinyeom",
     "contents": [
         "World Models"
     ]
